@@ -1,1 +1,3 @@
 # PanicButton
+ Women’s safety is  an extremely important issue on the modern day due to  the rise in the  number of crimes against women. This project proposes a GPS-based women’s safety system operable  through  a single SOS button. A woman can turn on this system in case she even thinks she would be in trouble by just pressing the button and the system  now sends  her  location to  the authorized  personnel  number saved  previously  in the  system  through  SMS message.  The  proposed  system  is  microcontroller-based,  additionally  using  GPS  sensor  with  a  GSM  modem  for determination and forwarding the location of the woman in danger.
+
